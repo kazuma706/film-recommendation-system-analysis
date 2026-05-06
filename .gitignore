@@ -1,0 +1,14 @@
+.DS_Store
+logs_*.txt
+report*.tex
+report*.md
+report_revised*.tex
+outputs/
+data/
+*.pkl
+*.csv
+*.html
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
